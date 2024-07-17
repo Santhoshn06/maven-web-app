@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to EWIT <font></h1>
+<h1><font color='red'> Welcome <font></h1>
 
 
   
-  <h2> Happy Birthday Mr Sharath Kumar shivakumar </h2>
+  <h2> Hello World </h2>
   
-  <h3> How is the Josh </h3>
+  <h3> Demo application - maven -web app </h3>
 
 
 </body>
